@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Front End Junior | Graduado em ADS
 
-Sou focado em transformar ideias em interfaces modernas e funcionais. Utilizo o ecossistema **React.js, TypeScript e JavaScript (ES6+)** para criar experiências digitais que unem design e performance.
+Sou focado em transformar ideias em interfaces modernas e funcionais. Utilizo o ecossistema **React.js** para criar experiências digitais que unem design e performance.
 
 - 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas (2025).
 - 💻 **Stack Principal:** React.js, TypeScript e JavaScript (ES6+).
