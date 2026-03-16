@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Cunha! 👋
+# Olá, eu sou Gabriel Cunha! 👋
 
 ### Desenvolvedor Front End Junior | Graduado em ADS
 
